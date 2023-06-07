@@ -1,0 +1,12 @@
+
+required software to be installed
+
+neovim
+tmux
+git
+python
+
+required repositories
+    https://github.com/sebastiencs/icons-in-terminal.git
+    https://github.com/tmux-plugins/tpm.git
+    
